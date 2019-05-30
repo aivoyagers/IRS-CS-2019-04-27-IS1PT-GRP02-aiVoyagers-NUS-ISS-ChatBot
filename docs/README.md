@@ -1,7 +1,7 @@
 <html>
 <html>
 <body>
-<center><img src="https://github.com/aivoyagers/IRS-CS-2019-04-27-IS1PT-GRP02-aiVoyagers-NUS-ISS-ChatBot/blob/master/images/branding-iss.png" alt="Smiley face" height="128" width="302">
+<center><img src="https://github.com/aivoyagers/IRS-CS-2019-04-27-IS1PT-GRP02-aiVoyagers-NUS-ISS-ChatBot/blob/master/images/branding-nus.png" alt="Smiley face" height="128" width="302">
 <img src="https://github.com/aivoyagers/IRS-CS-2019-04-27-IS1PT-GRP02-aiVoyagers-NUS-ISS-ChatBot/blob/master/images/branding-iss.png" alt="Smiley face" height="128" width="284"></center>
 <br>
  <div>
