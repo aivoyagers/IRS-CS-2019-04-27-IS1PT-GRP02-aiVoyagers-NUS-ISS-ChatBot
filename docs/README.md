@@ -1,11 +1,11 @@
 <html>
 <html>
 <body>
-<center><img src="images/branding-nus.png" alt="Smiley face" height="128" width="302">
-<img src="images/branding-iss.png" alt="Smiley face" height="128" width="284"></center>
+<center><img src="./../images/branding-nus.png" alt="Smiley face" height="128" width="302">
+<img src="./../images/branding-iss.png" alt="Smiley face" height="128" width="284"></center>
 <br>
  <div>
- <img src="images/iss-banner_jan2018.png" alt="Smiley face" height="200" width="1500"> 
+ <img src="./../images/iss-banner_jan2018.png" alt="Smiley face" height="200" width="1500"> 
  <center><H1> Welcome to NUS Institute of Systems Science (ISS) Chat Bot Agent</H1>
 <H4>You may ask me like : 
 "List of Graduate Programs offered" or 
