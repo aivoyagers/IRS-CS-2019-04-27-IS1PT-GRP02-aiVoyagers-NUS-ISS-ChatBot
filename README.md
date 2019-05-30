@@ -10,13 +10,9 @@
      style="float: left; margin-right: 0px;" width="400" /> 
 -->
 ## SECTION 2 : EXECUTIVE SUMMARY / PAPER ABSTRACT
-In Singapore shuttle services to ferry students from their home to school and back is quite common. Probably every Singaporean would have travelled in a shuttle service during their student days.
-
-Our team of 4 Singapore residents have also gone through the process of selecting shuttle services for our school going children and the biggest challenge we found was to find a service which takes the shortest distance to reach the school from our house at a reasonable cost and able to service multiple schools at the same time. 
-
-We believe that many other Singapore parents would also be finding similar difficulties in selecting shuttle services for their children for a nominal cost. This provides a greater opportunity to address the gap in the market and thus we decided to embark on this project. In this project, we are assuming that we are a service provider having few depots operating shuttle buses at our disposal. We would be providing shuttle services optimized through the implementation of Reasoning Systems Optimization techniques using KIE workbench, Drools and OptaPlanner.  
-
-We felt that the scale and scope of the project was such that many more options for optimization could have been explored e.g. the amount of time taken for students to reach school taking traffic conditions in to consideration on top of travel distance optimized. However, given the time limitations we were happy with the solution we were able to achieve as part of this project.  
+NUS ISS offers a multitude of degree and professional conversion programs which are very popular not only in Singapore but also in many of the south east Asian and south Asian countries. Even within Singapore, IT is becoming a most sought-after subject, because of the emerging state-of-the-art technologies and the job and start up opportunities it provides.
+The Singapore Government is making significant fund allocation for Skill future credits in its push for a smart nation. It aims to develop Infocom leaders who can achieve business & organisation innovation and also to ensure enough talent pool of employees for multinational companies in the thriving economy.
+In order to meet the growing national and international demand, our team of 4 Singapore residents are tasked with building a chat bot which can handle queries of the aspiring students. This chatbot will provide a friendly user interface and will respond to users queries on ISS programs, courses and related information
 
 #### Welcome to NUS Institute of Systems Science (ISS) Chat Bot Agent
 <H6>You may ask me like : 
