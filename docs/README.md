@@ -5,7 +5,7 @@
 <img src="./../images/branding-iss.png" alt="Smiley face" style="float: left; margin-right: 0px;" class="inline" />
 <br>
  <div>
- <img src="./../images/iss-banner_jan2018.png" alt="Smiley face" height="200" width="1500"> 
+ <img src="./../images/iss-banner_jan2018.png" alt="Smiley face" height="200" width="1500" class="inline" /> 
  <center><H1> Welcome to NUS Institute of Systems Science (ISS) Chat Bot Agent</H1>
 <H4>You may ask me like : 
 "List of Graduate Programs offered" or 
