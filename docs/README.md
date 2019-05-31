@@ -1,7 +1,7 @@
 <html>
 <html>
 <body>
-<center><img src="./../images/branding-nus.png" alt="Smiley face" height="128" width="302" style="float: left; margin-right: 0px;" class="inline" />
+<center><img src="./../images/branding-nus.png" alt="Smiley face" style="float: left; margin-right: 0px;" class="inline" />
 <img src="./../images/branding-iss.png" alt="Smiley face" height="128" width="284" style="float: left; margin-right: 0px;" class="inline" /></center>
 <br>
  <div>
