@@ -42,8 +42,7 @@ Project Git Repository : https://github.com/aivoyagers/IRS-CS-2019-04-27-IS1PT-G
 
 ---
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
-[![IRS Intelligent Rapid Shuttle](SystemCodes/static/IRS-Output.jpg)](https://youtu.be/W3MZEjSZb8A "IRS Shuttle Service")
-Click the image above to view Video. Alternatively, you can view following the link https://github.com/aivoyagers/IRS-RS-2019-03-09-IS1PT-GRP-aiVoyagers-irs-Intelligent-Rapid-Shuttle/blob/master/Video/IRSVideo.MOV
+Click the image above to view Video. Alternatively, you can view following the link https://github.com/aivoyagers/IRS-CS-2019-04-27-IS1PT-GRP02-aiVoyagers-NUS-ISS-ChatBot/blob/master/Video/NUS-ISS-Video-Demo.mp4
 
 ---
 ## SECTION 5 : USER GUIDE
@@ -81,17 +80,5 @@ Follow below steps to setup NUS ISS Chat Bot Agent system.
 * Conclusion
 * Improvements
 
-
-
----
-## SECTION 7 : MISCELLANEOUS
-
-### 7.1 Domain Class Diagram  
-<img src="SystemCodes/static/IRS-Class-Diagram.png"
-     style="float: left; margin-right: 0px;" /> 
-
-### 7.2 IRS Systems Artchitecture  
-<img src="SystemCodes/static/IRS-Systems-Architecture.png"
-     style="float: left; margin-right: 0px;" /> 
 
 ---

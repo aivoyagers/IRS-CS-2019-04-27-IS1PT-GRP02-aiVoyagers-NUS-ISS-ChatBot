@@ -1,46 +1,367 @@
-Stackable Certificate Programme in Data Science(Data Science),"The NUS-ISS Stackable Certificate Programme in Data Science, leading to the NUS Master of Technology in Enterprise Business Analytics is designed to meet the industry demand for data scientists who can help organisations achieve improved business outcomes through data insights. It is best suited for professionals who wish to enhance their existing skill sets to progress from the entry level to specialist or expert level positions in the data science and business analytics domain. 
-"
-Stack Up to a Master of Technology in Enterprise Business Analytics,"Participants who wish to continue their learning journey towards the Master of Technology in Enterprise Business Analytics degree will have to complete 2 certificates in the fundamental areas, any 2 of 4 certificates in the specialist areas as well as capstone project in Data Analytics.
-Fundamental Certificates are:
-
-Graduate Certificate in Management of Business Analytics Project 
-Graduate Certificate in Business Analytics Practice
-
-Specialist Certificates areas are:
-
-Graduate Certificate in Customer Analytics 
-Graduate Certificate in Big Data Engineering & Web Analytics
-Graduate Certificate in Practical Language Processing
-Graduate Certificate in Specialised Predictive Modelling & Forecasting
-"
-Graduate Certificate in Management of Business Analytics Project,"This certificate aims to provide practitioners with practice-oriented data analytics skills and knowledge in managing analytics project. Practitioners will be equipped with essential skillsets to understand analytics processes and best practices, to manage data and resources, to uphold data governance, to understand structure of analytics solution, to perform data visualisation, to present insights via compelling data storytelling, and to ensure successful implementation of analytics project."
-Key Takeaways of Graduate Certificate in Management of Business Analytics Project,"Define clear business needs
-Understand the analytics components required in the project
-Understand data & resource requirements, data storage & governance discipline
-Understand project success criteria & implementation requirement & challenges
-Ensure successful completion of the analytics project which is readily implementable
-Duration:	22 days
+Stack Up to a Master of Technology in Enterprise Business Analytics,"Participants who wish to continue their learning journey towards the Master of Technology in Enterprise Business Analytics degree will have to complete 2 certificates in the fundamental areas, any 2 of 4 certificates in the specialist areas as well as capstone project in Data Analytics."
+Stackable Certificate Programme in Data Science,"The NUS-ISS Stackable Certificate Programme in Data Science, leading to the NUS Master of Technology in Enterprise Business Analytics is designed to meet the industry demand for data scientists who can help organisations achieve improved business outcomes through data insights. It is best suited for professionals who wish to enhance their existing skill sets to progress from the entry level to specialist or expert level positions in the data science and business analytics domain"
+Capstone Project in Data Analytics,Students are required to demonstrate the ability to apply business analytics concepts and solve problems using suitable analytics software in a real-life project using extensive usage of data
+Overview of   Graduate Certificate in Management of Business Analytics Project,"This certificate aims to provide practitioners with practice-oriented data analytics skills and knowledge in managing analytics project. Practitioners will be equipped with essential skillsets to understand analytics processes and best practices, to manage data and resources, to uphold data governance, to understand structure of analytics solution, to perform data visualisation, to present insights via compelling data storytelling, and to ensure successful implementation of analytics project."
+Course details of of Graduate Certificate in Management of Business Analytics Project,"Duration:	22 days
 Level:	Fundamental
 Area:	Analytics Project Management and Delivery
 This graduate certificate is a part of the Stackable Certificate Programme in Data Science"
-Modular Courses of Graduate Certificate in Management of Business Analytics Project,"NICF - Data Analytics Process and Best Practices (SF)
-This course has been designed to equip analytics professionals and managers with an understanding of Data Analytics Process and Best Practices so that their analytics activity downstream will be more credible and useful. The course also provides an intermediate pathway into technical ‘methods’ courses in the ISS portfolio (such as those in the ISS-NICF Enterprise Business Analytics syllabus).
+Key Takeaways of  Graduate Certificate in Management of Business Analytics Project,"Define clear business needs
+Understand the analytics components required in the project
+Understand data & resource requirements, data storage & governance discipline
+Understand project success criteria & implementation requirement & challenges
+Ensure successful completion of the analytics project which is readily implementable"
+Fees of Graduate Certificate in Management of Business Analytics Project,"International Participants : S$11,834.20
+S'poreans and PRs  : S$3700.06
+SkillsFuture Mid-Career Enhanced Subsidy : S$1528.06
+Workfare Training Support: S$985.06
+Enhanced Training Support for SMEs: S$1528.06
+Singaporeans aged 25 and above can use their SkillsFuture Credit to pay for course fees, apart from government subsidies. For more details, please check the website"
+Overview of Graduate Certificate in Business Analytics Practice,"Participants will learn the foundation skills to understand, design and solve analytics problems in the industry involving structured and unstructured data. It is targeted at business professionals who wants to build their career in business analytics and wants to become a data scientist in due course. This certificate consists of five course modules plus a practice module as listed below. The 1st to 3rd modules should be taken in Participants will learn the foundation skills to understand, design and solve analytics problems in the industry involving structured and unstructured data. It is targeted at business professionals who wants to build their career in business analytics and wants to become a data scientist in due course. This certificate consists of five course modules plus a practice module as listed below. The 1st to 3rd modules should be taken in chronological order followed by 4th and 5th modules which can be taken in any order. However the practice module must be completed last."
+Key Takeaways of Graduate Certificate in Business Analytics Practice,"Define modeling solutions to solve business problems
+Understand data requirement, collate and clean data for model development
+Understand implementation issues before model development
+Develop models, test, validate and make the models ready for implementation
+Provide pseudo code and documentation which businesses can use for immediate implementation and future maintenance of the model and reference in case the redevelopment is necessary at a later stage"
+Course details of  Graduate Certificate in Business Analytics Practice,"Duration:	29 days
+Level:	Fundamental
+Area:	Core Analytics Techniques
+This graduate certificate is a part of the Stackable Certificate Programme in Data Science"
+Fees  of Graduate Certificate in Business Analytics Practice,"International Participants : S$17,976.00
+S'poreans and PRs  : S$5542.60
+SkillsFuture Mid-Career Enhanced Subsidy : S$2222.60
+Workfare Training Support: S$1392.60
+Enhanced Training Support for SMEs: S$2222.60
+Singaporeans aged 25 and above can use their SkillsFuture Credit to pay for course fees, apart from government subsidies. For more details, please check the website"
+Overview of Graduate Certificate in Customer Analytics,"This certificate aims to equip the learners the skills to manage data and provide analytics solution for customer relationship management and run campaigns effectively for growth. To achieve this CRM concepts and infrastructure, Customer Life Cycle Management principles, concepts of multivariate analysis like dimension reduction, cluster analysis, profiling, Propensity models, Attrition/churn Models, RFM Analysis, CLV calculation, Campaign Management principles etc. are covered."
+Key Takeaways of Graduate Certificate in Customer Analytics,"Define and understand the principles of customer relationship management, segmentation, customer journey experience, satisfaction and loyalty, customer churn analysis
+Understand the customer analytics components like lifecycle value, event and customer level techniques eg. RFM techniques, latency analysis, response models, propensity models, attrition models, association models. intent discovery etc.
+Understand the data and technical difficulties needed to implement a customer analytics project
+Understand the use cases for customer analytics usage
+Understand the analytical techniques for campaign management like test and learn techniques, cross channel techniques, channel mechanics and handoffs, touchpoint mapping"
+Course details of Graduate Certificate in Customer Analytics,"Duration:	19 days
+Level:	Specialist
+Area:	Customer Analytics
+This graduate certificate is a part of the Stackable Certificate Programme in Data Science"
+Overview of Graduate Certificate in Big Data Engineering and Web Analytics,"This certificate teaches the foundation skills and best practices for big data engineering and edge devices (web and IoT) based solutions for analytics projects within the industry which includes understanding how to successfully build data processing pipelines to meet stakeholder?s requirements, setting up enterprise data lake for insight engineering, performing web analytics towards improved business intelligence, data analytics, management and processing for IoT devices."
+Course details of Graduate Certificate in Customer Analytics,"
+Duration:	19 days
+Level:	Specialist
+Area:	Customer Analytics
+This graduate certificate is a part of the Stackable Certificate Programme in Data Science"
+Modular Courses of Graduate Certificate in Customer Analytics,"NICF - Customer Analytics (SF)
+CRM principles, infrastructure needed, Customer Life Cycle Management which includes prospect marketing, onboarding and activation, attrition management, upsell-cross sell, Customer Service etc, Dimension Reduction techniques, Clustering & profiling & methods of strategy formulation, RFM Analysis.
 3 Days
-NICF - Data Story Telling (SF)
-Data visualisation is about using information design to present data visually. It consists of three main parts, namely data, visualisation and storytelling. In fact, data visualisation becomes a new language for storytelling. It is important for professionals to express complex ideas in simplest manner, using visualisation to tell a story via graphical depiction of statistical information.
+NICF - Advanced Customer Analytics (SF)
+Deep Dive in CRM with latest developments, CLV calculation in different industries, Formulation of attrition, propensity, cross-sell, look-alike modeling and development using logistic regression for different industries, Understanding cost savings implications of these models, Campaign management principles.
 3 Days
-NICF - Data Governance & Protection (SF)
-Data governance is the operating discipline for managing data and information as a key enterprise asset. This discipline includes organisation, processes and tools for establishing and exercising decisions rights regarding valuation and management of data. In this course, you will learn about the key aspects of data governance, such as decision-making authority, policies, standards, data quality and data protection.
+Campaign Analytics
+CRM overview, Campaign design, Display advertising ecosystem, Campaign targeting and Measurement, Social Media campaigns, Marketing Mix modeling, next best offer targeting and Event based marketing.
 3 Days
-NICF - Managing Business Analytics Projects (SF)
-Business Analytics has earned a place as one of the core disruptors of the digital age. Many companies’ business analytics initiatives have moved to production, with some proven success, and now there is a continuing push to leverage new data technologies to power business intelligence. Many government agencies and private companies have jumped on this bandwagon and are heavily investing in business analytics projects to gain new insights in order to acquire a competitive edge to serve their customers and citizens.
-3 Days"
-Practice Module of Graduate Certificate in Management of Business Analytics Project,"The main objectives of this module is to strengthen the participants’ understanding of practical skills and knowledge of application acquired in the courses in respective certificate in a supervised manner. Also, to enable participants to demonstrate their proficiency across all of the skills that they have learned in the course modules and hence be certified as competent at the Certificate level."
-Fees & Funding of Graduate Certificate in Management of Business Analytics Project,"International Participants - S$11,834.20
-S'poreans and PRs  - S$3700.06
-SkillsFuture Mid-Career Enhanced Subsidy - S$1528.06
-Workfare Training Support - S$S$985.06
+Practice Module
+Participants will undertake projects to tackle one or more real world problems that allow them to gain experience in the topics taught. Projects may be selected from within their own organisations or from other approved sources. These projects will be assessed."
+Key Takeaways of Graduate Certificate in Big Data Engineering and Web Analytics,"This certificate teaches the foundation skills and best practices for big data engineering and edge devices (web and IoT) based solutions for analytics projects within the industry which includes understanding how to successfully build data processing pipelines to meet stakeholder?s requirements, setting up enterprise data lake for insight engineering, performing web analytics towards improved business intelligence, data analytics, management and processing for IoT devices."
+Overview of Graduate Certificate in Big Data Engineering and Web Analytics,"Understand various aspects of data engineering while building resilient distributed datasets.
+Apply key practices, identify multiple data sources appraised against their business value, design the right storage, and implement proper access model(s).
+Build a scalable data pipeline solution composed of pluggable component architecture, based on the combination of requirements in a vendor/technology agnostic manner.
+Use the Spark platform along with additional libraries such as statistics, query, machine learning and streaming libraries.
+Understand relevant web analytics tools and make recommendations to their organisation
+Generate, analyse and modify required traffic reports according to information requirements and needs of sales and marketing functions
+Implement and apply web analytics and metrics to improve web performance
+Collect and process data for newer insights from smaller scale edge IoT devices"
+Course details of Graduate Certificate in Big Data Engineering and Web Analytics,"Duration:	21 days
+Level:	Specialist
+Area:	Big Data Processing
+This graduate certificate is a part of the Stackable Certificate Programme in Data Science"
+Modular Courses of Graduate Certificate in Big Data Engineering and Web Analytics,"Feature Engineering & Analytics using IOT Data
+Understand architectural design and optimisation of sensors network for smart applications and products. Design and implement data processing framework for insight engineering on data from IoT. This includes key areas like: Apply elastic analytics concepts to design scalable analytics solutions, creating visual analytics and dashboard for IoT data. Other areas that highlights feature engineering with IoT data covers areas like dealing with missing value and time series handling.
+3 Days
+Graph & Web Mining
+Understand the goals and core concepts of graph and web mining. Learn how to discover relationships between entities in graphs and networks by mining the links between them. Topics include graph mining, link analysis, network complexity measurement, key player identification, network clustering. Applications include mining social networks, professional networks, communications networks, document networks and web usage patterns.
+3 Days
+NICF - Big Data Engineering for Analytics (SF)
+Understand the various aspects of data engineering while building resilient distributed datasets. Identify multiple data sources appraised against their business value, design the right storage, and implement proper access model(s). Build a scalable data pipeline solution.
+5 Days
+Practice Module
+Students work undertake projects to tackle one or more real world problems that allow them to gain experience in the topics taught. Projects may be selected from within their own organisations or from other approved sources. These projects will be assessed."
+Overview of Graduate Certificate in Practical Language Processing,"This certificate teaches fundamental and advanced skills in practical language processing. This includes fundamental text processing techniques, text analytics applications, deep learning techniques and their application in sentiment mining and chatbots development."
+Key Takeaways of Graduate Certificate in Practical Language Processing,"Pre-process textual data into suitable representation for text analytics
+Build and evaluate language models using appropriate text processing techniques for tasks like document classification, topic modeling, information extraction, etc.
+Apply deep learning techniques on large amounts of textual data to obtain high quality models
+Extract and classify the sentiment polarity opinions from texual data
+Build service chatbots using traditional and machine learning approaches"
+Course details  of Graduate Certificate in Practical Language Processing,"Duration:	27 days
+Level:	Specialist
+Area:	Practical Language Processing
+This graduate certificate is a part of the Stackable Certificate Programme in Data Science"
+Modular courses of Graduate Certificate in Practical Language Processing,"NICF - Text Analytics (SF)
+This course aims to equip participants with the knowledge and skills to effectively analyse large amounts of textual data such as customer feedbacks and social media conversations to discover themes, patterns and trends to aid in improving business process and decision making. In scenario-based case studies, participants will be introduced to common text analytics tasks such as data pre-processing and preparation, linguistic/knowledge resources management, concept extraction, text categorisation, clustering, association and trend analysis. Participants will practise performing these tasks following a well-defined process in hands-on sessions.
+3 Days
+NICF - New Media and Sentiment Mining (SF)
+This course introduces the concepts and techniques for opinion extraction from unstructured text and the classification of sentiment polarity. Students learn how to find textual sources containing sentiment and use tools to analyze them.
+4 Days
+NICF - Text Processing using Machine Learning (SF)
+This course provides essential knowledge and skills required to perform deep learning based text processing in common tasks encountered in industries.
+5 Days
+Conversational Interfaces
+This course examines traditional approaches to build customer service chatbots for a vertical domain as well as machine learning techniques using large amount of conversational data to improve and optimize chatbot performance.
+5 Days
+Practice Module
+Students work undertake projects to tackle one or more real world problems that allow them to gain experience in the topics taught. Projects may be selected from within their own organisations or from other approved sources. These projects will be assessed.
+10 Days"
+Overview of Graduate Certificate in Specialised Predictive Modelling and Forecasting,"This certificate teaches the advanced concepts of predictive modeling and Time Series Forecasting and their application in few special areas like Health Care & Service Industry in addition to other domains like Public Services, IT Services, Finance, Airlines, Logistics, Transport, Hotel & Tourism Industries. The topics include GLM, ARIMA & SARIMA, Transfer Functions, Survival Analysis, Image Analysis for Health Care, Management of Health & Medical Data, Service Quality Frame Work, Service Process Improvement Techniques etc."
+Key takeaways of Graduate Certificate in Specialised Predictive Modelling and Forecasting,"Understand and learn to develop specialized predictive modeling techniques to solve business problems which are complex in nature
+Perform complex forecasting applicable to any industry
+Create Health Industry related analytics solutions including image analysis
+Get specialized training to apply analytics techniques to service industry including Service Quality Management framework and learn how to improve service quality."
+Course details  of Graduate Certificate in Specialised Predictive Modelling and Forecasting,"Duration:	21 days
+Level:	Specialist
+Area:	Advanced Predictive Modelling Techniques
+This graduate certificate is a part of the Stackable Certificate Programme in Data Science"
+Modular Courses of Graduate Certificate in Specialised Predictive Modelling and Forecasting,"NICF - Service Analytics (SF)
+Service quality framework, Service KPIs to be tracked including GQM Method, Advances in Analytics for service processes, Sense making and diagnostic tools, Quantile regression, Application of Multinomial logistics regression in service industry, Service process improvement techniques etc.
+3 Days
+Generalized Predictive Modeling & Forecasting
+Learn to solve business problems using - Generalized Linear Models, ARIMA & Seasonal ARIMA including Transfer Functions, Survival Analysis etc
+5 Days
+NICF - Health Analytics (SF)
+Fundamentals of Health Analytics and overview of the area locally & globally, application techniques in the area, data processing, analysis, visualization and statistical modeling of health data, image analysis, data management of health and medical data etc.
+3 Days
+Practice Module
+Students work undertake projects to tackle one or more real world problems that allow them to gain experience in the topics taught. Projects may be selected from within their own organisations or from other approved sources. These projects will be assessed.
+10 Days"
+Overview of NUS-ISS Stackable Certificate Programmes in Digital Solutions Development,"Part of	-
+Duration	209 days
+Course Time	9:00am - 5:00pm
+Enquiry	Please contact Ms. Sherlyn LIM at tel: 65167646 or email  for more details. This course equips participants with necessary skills to design and develop IT solutions to resolve business problems, enable process automation and support smart living in our day to day life. 
 
-Singaporeans aged 25 and above can use their SkillsFuture Credit to pay for course fees, apart from government subsidies. For more information, Please refer course details"
-Company-sponsored fees structure of Graduate Certificate in Management of Business Analytics Project,"Company-sponsored fees structure of Graduate Certificate in Management of Business Analytics Project	<table class=""table table-bordered"">    <tbody>        <tr>            <td><strong>Courses</strong></td>            <td>            <p style=""text-align: center;""><strong>International Participants</strong></p>            </td>            <td>            <p style=""text-align: center;""><strong>S'poreans and PRs&nbsp;</strong><br />            <span style=""font-size: 12px;"">(aged 21 and above)</span></p>            </td>            <td>            <p style=""text-align: center;""><strong>SkillsFuture Mid-Career Enhanced Subsidy<sup>1</sup></strong>&nbsp;<br />            <span style=""font-size: 12px;"">(S&rsquo;poreans aged 40 and above)</span></p>            </td>            <td>            <p style=""text-align: center;""><strong>Workfare Training Support<sup>2<br />            </sup></strong><br />            <span style=""font-size: 12px;"">(S&rsquo;poreans aged 35 and above, and earn &le; $2,000 per month)</span><strong></strong></p>            </td>            <td>            <p style=""text-align: center;""><strong>Enhanced Training Support for SMEs<sup>3</sup></strong></p>            </td>        </tr>        <tr>            <td>            <p>NICF - Data Analytics Process and Best Practice (SF)</p>            </td>            <td>            <p>S$2889.00</p>            </td>            <td>            <p>S$866.70</p>            </td>            <td>            <p>S$866.70</p>            </td>            <td>            <p>S$866.70</p>            </td>            <td>            <p>S$866.70</p>            </td>        </tr>        <tr>            <td>            <p>NICF - Data Story Telling</p>            </td>            <td>            <p>S$2889.00</p>            </td>            <td>            <p>S$866.70</p>            </td>            <td>            <p>S$866.70</p>            </td>            <td>            <p>S$866.70</p>            </td>            <td>            <p>S$866.70</p>            </td>        </tr>        <tr>            <td>            <p>NICF - Data Governance &amp; Protection</p>            </td>            <td>            <p>S$2953.20</p>            </td>            <td>            <p>S$885.96</p>            </td>            <td>            <p>S$885.96</p>            </td>            <td>            <p>S$885.96</p>            </td>            <td>            <p>S$885.96</p>            </td>        </tr>        <tr>            <td>            <p>NICF - Managing Business Analytics Projects</p>            </td>            <td>            <p>S$2889.00</p>            </td>            <td>            <p>S$866.70</p>            </td>            <td>            <p>S$866.70</p>            </td>            <td>            <p>S$866.70</p>            </td>            <td>            <p>S$866.70</p>            </td>        </tr>        <tr>            <td>            <p>Practice Module</p>            </td>            <td>            <p>S$214.00</p>            </td>            <td>            <p>S$214.00</p>            </td>            <td>            <p>S$214.00</p>            </td>            <td>            <p>S$214.00</p>            </td>            <td>            <p>S$214.00</p>            </td>        </tr>        <tr>            <td>            <p><strong>Total nett course fee payable, including GST</strong>            <br />            (Fee payable to NUS-ISS)</p>            </td>            <td>            <p><strong>S$11,834.20</strong></p>            </td>            <td>            <p><strong>S$3700.06</strong></p>            </td>            <td>            <p><strong>S$3700.06</strong></p>            </td>            <td>            <p><strong>S$3700.06</strong></p>            </td>            <td>            <p><strong>S$3700.06</strong></p>            </td>        </tr>        <tr>            <td>            <p>Less additional funding if eligible under various schemes<sup>#<br />            </sup><span style=""font-size: 12px;"">(company needs to submit training grant and claim via <a href=""https://www.skillsconnect.gov.sg/sop/portal/"" target=""_blank"">Skillsconnect</a>)</span></p>            </td>            <td>            <p>-</p>            </td>            <td>            <p>-</p>            </td>            <td>            <p>(S$2172.00)</p>            </td>            <td>            <p>(S$2715.00)</p>            </td>            <td>            <p>(S$2172.00)</p>            </td>        </tr>        <tr>            <td>            <p><strong>Total nett course fee payable, including GST, after additional funding from the various funding schemes</strong><br />            (Actual financial outlay by company)</p>            </td>            <td>            <p>-</p>            </td>            <td>            <p>-</p>            </td>            <td>            <p><strong>S$1528.06</strong></p>            </td>            <td>            <p><strong>S$985.06</strong></p>            </td>            <td>            <p><strong>S$1528.06</strong></p>            </td>        </tr>    </tbody></table>"
-Lectures of Graduate Certificate in Management of Business Analytics Project,"<div class=""row""><div class=""col-xs-3""><img alt="""" src=""https://www.iss.nus.edu.sg/images/default-source/About-Us/7.6.1-teaching-staff/brandon-cropped.tmb-.jpg?Status=Master&amp;sfvrsn=1"" class=""img-responsive"" /></div><div class=""col-xs-9""><h4><a href=""https://www.iss.nus.edu.sg/about-us/staff/detail/653/Brandon%20NG"" target=""_blank"">Mr. Brandon NG</a></h4><em>Senior Lecturer &amp; Consultant, Analytics &amp; Intelligent Systems Practice</em></div></div><hr /><div class=""row""><div class=""col-xs-3""><img alt="""" src=""https://www.iss.nus.edu.sg/images/default-source/About-Us/7.6.1-teaching-staff/richard-cropped.tmb-.jpg?Status=Master&amp;sfvrsn=1"" class=""img-responsive"" /></div><div class=""col-xs-9""><h4><a href=""https://www.iss.nus.edu.sg/about-us/staff/detail/369/Richard%20TAN"" target=""_blank"">Mr. Richard TAN</a></h4><em>Principal Lecturer &amp; Consultant, Product &amp; Project Management Practice</em></div></div><hr /><div class=""row""><div class=""col-xs-3""><img alt="""" src=""https://www.iss.nus.edu.sg/images/default-source/About-Us/7.6.1-teaching-staff/daniel-cropped.tmb-.jpg?Status=Master&amp;sfvrsn=1"" class=""img-responsive"" /></div><div class=""col-xs-9""><h4><a href=""https://www.iss.nus.edu.sg/about-us/staff/detail/225/Daniel%20BOEY"" target=""_blank"">Mr. Daniel BOEY</a></h4><em>Chief, Product &amp; Project Management Practice</em></div></div><hr /><div class=""row""><div class=""col-xs-3""><img alt="""" src=""https://www.iss.nus.edu.sg/images/default-source/About-Us/7.6.1-teaching-staff/nirmal-cropped.tmb-.jpg?Status=Master&amp;sfvrsn=1"" class=""img-responsive"" /></div><div class=""col-xs-9""><h4><a href=""https://www.iss.nus.edu.sg/about-us/staff/detail/732/Nirmal%20Raja%20PALAPARTHI"" target=""_blank"">Mr. Nirmal Raja PALAPARTHI</a></h4><em>Principal Lecturer &amp; Consultant, Analytics &amp; Intelligent Systems Practice</em></div></div><hr /><div class=""row""><div class=""col-xs-3""><img alt="""" src=""https://www.iss.nus.edu.sg/images/default-source/About-Us/7.6.1-teaching-staff/prakash-website.tmb-.png?Status=Master&amp;sfvrsn=1"" class=""img-responsive"" /></div><div class=""col-xs-9""><h4><a href=""https://www.iss.nus.edu.sg/about-us/staff/detail/202/Prakash%20Chandra%20SUKHWAL"" target=""_blank"">Mr. Prakash Chandra SUKHWAL</a></h4><em>Associate Lecturer &amp; Consultant, Analytics &amp; Intelligent Systems Practice</em></div></div><hr /><div class=""row""><div class=""col-xs-3""><img alt="""" src=""https://www.iss.nus.edu.sg/images/default-source/About-Us/7.6.1-teaching-staff/nicholas-cropped.tmb-.jpg?Status=Master&amp;sfvrsn=1"" class=""img-responsive"" /></div><div class=""col-xs-9""><h4><a href=""https://www.iss.nus.edu.sg/about-us/staff/detail/583/Nicholas%20TAN"" target=""_blank"">Mr. Nicholas TAN</a></h4><em>Principal Lecturer &amp; Consultant, IT Strategy &amp; Management Practice</em></div></div><hr /><div class=""row""><div class=""col-xs-3""><img title=""Rajnish Photo"" data-displaymode=""Thumbnail"" src=""/images/default-source/About-Us/7.6.1-teaching-staff/rajnish-photo.tmb-thumb200.jpg?sfvrsn=1"" class=""img-responsive"" alt=""Rajnish Photo"" /></div><div class=""col-xs-9""><h4><a href=""https://www.iss.nus.edu.sg/about-us/staff/detail/313/Rajnish%20TULI"" target=""_blank"">Mr. Rajnish TULI</a></h4><em>Principal Lecturer &amp; Consultant, Analytics &amp; Intelligent Systems Practice</em></div></div><hr /><div class=""row""><div class=""col-xs-3""><img title=""Tan Jen Hong Pic"" data-displaymode=""Thumbnail"" src=""/images/default-source/About-Us/7.6.1-teaching-staff/tan-jen-hong-pic.tmb-thumb200.jpg?sfvrsn=1"" class=""img-responsive"" alt=""Tan Jen Hong Pic"" /></div><div class=""col-xs-9""><h4><a href=""https://www.iss.nus.edu.sg/about-us/staff/detail/212/TAN%20Jen%20Hong"" target=""_blank"">Dr. TAN Jen Hong</a></h4>&nbsp;<em>Lecturer &amp; Consultant, Analytics &amp; Intelligent Systems Practice</em></div></div>"
+The series of certifications start with the compulsory first certification programme - ""NUS-ISS Certificate in Digital Solutions Development - Foundations (SF)"". Upon successful completion of the certification, you can then proceed to take the next three certificates (Design, Web Applications and Mobility Applications) in your preferred sequence. 
+
+You may choose to continue with NUS Graduate Diploma in Systems Analysis - Capstone and Internship, if you possess a recognised degree and have attained in their examination a minimum of 60% and above in one sitting for all the four Certificates.  Upon successful completion of the capstone project and internship, students will be awarded the NUS Graduate Diploma in Systems Analysis."
+Key Takeaways of NUS-ISS Stackable Certificate Programmes in Digital Solutions Development,"The NUS-ISS Stackable Certificate Programmes in Digital Solutions Development is a package of four certificates in software design and engineering. Key takeaways for the individual certificates are:
+
+NICF-NUS-ISS Certificate in Digital Solutions Development - Foundations (SF) 
+Enterprise Solution Development: C#, SQL, Object Oriented Programming, Enterprise N-Tier Application Development. 
+
+NICF-NUS-ISS Certificate in Digital Solutions Development - Design (SF) 
+Software Analysis and Design, Software Engineering 
+
+NICF-NUS-ISS Certificate in Digital Solutions Development - Web Applications (SF) 
+Web Application Development: JAVA, RESTFUL server side, web design, HTML and CSS. 
+
+NICF-NUS-ISS Certificate in Digital Solutions Development - Mobility Applications (SF) 
+Mobile Application Development: mobile application design, ASP.NET, mobile web and mobile native app using Android, HTML and CSS.
+
+NUS Graduate Diploma in Systems Analysis - Capstone & Internship 
+Capstone project delivery and 5-months internship: gaining relevant professional experience, project management skills, and building soft skills in actual work environment."
+Who Should Attend for NUS-ISS Stackable Certificate Programmes in Digital Solutions Development,"This programme has been designed for people who have little prior technical skills in software engineering, and aspires to seriously develop in-depth technical capabilities.
+
+Participants who wish to learn programming, software design and analysis, as well as to develop mobile and web applications for an enterprise environment like a bank or any large organisation, will be suited to this programme.
+
+The stackable certificates allow you to take each certificate individually, and the option to complete your entire journey to fulfil a NUS Graduate Diploma in Systems Analysis. Participants can take the certificates your own pace, thus providing greater flexibility to plan your own learning journey."
+What Will Be Covered in NUS-ISS Stackable Certificate Programmes in Digital Solutions Development,"This programme will begin with:
+NICF-NUS-ISS Certificate in Digital Solutions Development - Foundations (SF)
+Participants can continue with further certifications below, in any sequence:
+NICF-NUS-ISS Certificate in Digital Solutions Development - Design (SF)
+NICF-NUS-ISS Certificate in Digital Solutions Development - Web Applications (SF)
+NICF-NUS-ISS Certificate in Digital Solutions Development - Mobility Applications (SF)
+Participants satisfying the requisite criteria can go on to the last lap:
+NUS Graduate Diploma in Systems Analysis - Capstone & Internship"
+Fees & Funding of Overview of NUS-ISS Stackable Certificate Programmes in Digital Solutions Development,"International Participants : S$10,700
+S'poreans and PRs  :S$3210
+SkillsFuture Mid-Career Enhanced Subsidy : S$1210
+Workfare Training Support: S$710
+Enhanced Training Support for SMEs: S$1210
+Singaporeans aged 25 and above can use their SkillsFuture Credit to pay for course fees, apart from government subsidies. For more details, please check the website"
+Stackable Certificate Programme in Artificial Intelligence,"The NUS-ISS Stackable Certificate Programme in Artificial Intelligence leading to a Master of Technology in Intelligent Systems is targeted at working professionals who wish to be able to design and build systems that utilise Artificial Intelligence and other Smart Systems techniques. Application areas are wide and diverse and include robotics, autonomous vehicles, intelligent sensing systems and the Internet of Things, Smart City applications and Industry 4.0 applications as well as applications within business and commerce."
+Stack Up to a Master of Technology in Intelligent Systems,"Participants who wish to continue their learning journey towards the Master of Technology in Intelligent Systems degree will have to complete 2 mandatory certificates in the fundamental areas, any 2 of 4 certificates in the specialist areas as well as a capstone project in Artificial Intelligence."
+Capstone Project in Intelligent Systems (6 ? 12 months),Participants will gain in-depth experience and also demonstrate ability by applying Artificial Intelligence techniques to build systems that make intelligent decision based on diverse data and sensory inputs. degree.
+Overiview of Graduate Certificate in Intelligent Reasoning Systems,"This graduate certificate teaches how to build Intelligent Systems that solve problems by computational reasoning using captured domain knowledge and data. Example applications include, question answering systems such as IBM's Watson, personal assistants such as Amazon?s Alexa Skills and game-playing systems such as Google's AlphaGo."
+Key Takeaways of Graduate Certificate in Intelligent Reasoning Systems,"Build intelligent reasoning systems capable of problem solving across a wide range of business and scientific/engineering domains
+Understand core concepts and techniques underlining intelligent reasoning systems
+Be familiar with current best practices and tools for building intelligent reasoning systems"
+Course details  of Graduate Certificate in Intelligent Reasoning Systems,"Duration:	12 days
+Level:	Fundamental
+Area:	Intelligent Reasoning Systems
+This graduate certificate is a part of the Stackable Graduate Certificate Programme in Artificial Intelligent Systems"
+Modular Coursesof Graduate Certificate in Intelligent Reasoning Systems,"Machine Reasoning
+This is a course designed to help organizations to extract business know-how and then transplant these domain knowledge into intelligent computer software application, in order to enable scale-able, automated, agile, and standardized business operations. Participants will learn and apply artificial intelligence techniques to create end to end bespoke machine reasoning applications in workshops. Example systems: Loan application, House recommendation system.
+
+4 Days
+Cognitive Systems
+This course teaches how to build systems that interact naturally with humans and extend and magnify human expertise and cognition. Cognitive systems are not meant to replace human thinking or actions, but rather to augment and accelerate human capabilities by replicating the human capabilities of sensory perception, deduction, learning, thinking and decision-making. The course is inter-disciplinary, covering topics from machine reasoning, machine learning, natural language processing, speech and vision processing, etc. Example systems will be discussed, for example, personal assistants such as Amazon's Alexa.
+
+3 Days
+Reasoning Systems
+This is a course designed to help organizations to make innovative use of advanced artificial intelligence reasoning, simulation, and optimization techniques to solve complex time consuming business resource planning and allocation matters, e.g. budget allocation, travel planning, vehicle routing, delivery planning, employee rostering, project job scheduling, appointment rescheduling, products cross selling, and so on. Participants will learn and apply advanced artificial intelligence techniques to create reasoning system solutions for these use cases in workshops."
+Overview of Graduate Certificate in Pattern Recognition Systems,"This graduate certificate teaches how to design and build systems that make decisions by recognising complex patterns in data. Examples are robotic systems and smart city applications that take as input diverse sensor data streams. These systems will utilise the latest pattern recognition, machine learning and sensor signal processing techniques."
+Key Takeaways of Graduate Certificate in Pattern Recognition Systems,"Build intelligent pattern recognition systems
+Understand core and advanced pattern recognition techniques and gain experience applying these techniques in practical systems and applications
+Understand and apply advanced signal processing techniques to sensor data
+Be familiar with current best practices and tools for building pattern recognition systems"
+Course details of Graduate Certificate in Pattern Recognition Systems,"Duration:	14 days
+Level:	Fundamental
+Area:	Pattern Recognition Systems
+This graduate certificate is a part of the Stackable Graduate Certificate Programme in Artificial Intelligent Systems"
+Modular Courses of  Graduate Certificate in Pattern Recognition Systems,"NICF- Problem Solving using Pattern Recognition (SF)
+This course introduces concepts and algorithms of various pattern recognition techniques and how to apply them to solve real-world problems.
+
+5 Days
+NICF-Intelligent Sensing and Sense Making (SF)
+This intelligent sensing and sense making course presents the core theory and algorithms of signal processing fundamentals, and practical signal processing skills and strategies for real-world industrial implementations through workshop sessions. Participants will learn how to identify needs of intelligent sensing technology in various industrial applications; acquire knowledge of core intelligent sensing theories; analyse various signal processing models and algorithms; design, apply and evaluate the performance and usefulness of various intelligent sensing and sense making techniques.
+
+4 Days
+NICF- Pattern Recognition and Machine Learning Systems (SF)
+This course introduces concepts and algorithms of advanced pattern recognition and machine learning techniques. It covers general principles and techniques with a unique focus on practical applications.  
+
+5 Days"
+Overview of Graduate Certificate in Intelligent Sensing Systems,"This graduate certificate teaches the skills and techniques required to build Intelligent Sensing Systems that are able to make decisions based on visual and audio sensory signals, including human speech. Example systems include crowd monitoring, facial recognition, medical sensing, robot and vehicle control."
+Key Takeaways of Graduate Certificate in Pattern Recognition Systems,"Build intelligent systems that can reason and make decisions based on visual, audio and speech inputs
+Understand key concepts and techniques for processing visual and sound sensing information
+Be familiar with current best practices and tools for building intelligent systems that process vision, sound and speech data"
+Course details of Graduate Certificate in Pattern Recognition Systems,"Duration:	12 days
+Level:	Specialist
+Area:	Intelligent Sensing Systems
+This graduate certificate is a part of the Stackable Graduate Certificate Programme in Artificial Intelligent Systems"
+Modular Courses of Graduate Certificate in Pattern Recognition Systems,"NICF - Vision Systems (SF)
+This course will provide participants with the comprehensive knowledge of computer vision methods and technologies, and the practical skills to design and build vision systems to solve real-world problems. Participants will benefit from a careful balance of lectures and practical workshops, and some of the topics covered will include concepts and techniques for vision system, video modelling and representation, video processing and analysis, feature extraction and representation, vision system using machine learning such as detection, recognition, segmentation, design, build and evaluate real-time vision system, etc.
+
+5 Days
+Spatial Reasoning from Sensor Data
+This course presents the core theory and algorithms of spatial reasoning from sensor data, and practical skills and strategies for real-world applications through workshop sessions. 3-D scene representation and reconstruction from visual data, active vision and 3-D spatial reasoning, recent advances in 3-D scanning and tracking technology (e.g. LIDAR), 3-D representation schemes that accommodate kinematic, dynamic and probabilistic computations into a single framework. Application areas discussed will include video games, robotics and engineering, augmented reality (AR) and virtual reality (VR).
+
+3 Days
+Speech & Sound Sensing Systems
+This course aims to equip participants with the knowledge and skills to build systems that can process and make decisions based upon audio and speech data. Topics include: audio signal processing and pattern recognition, speech and sound recognition, machine learning techniques for audio signal processing.
+
+4 Days"
+Overivew of Graduate Certificate in Intelligent Software Agents,"Overview
+This graduate certificate will teach how to build intelligent software agents that can act on behalf of, and replicate the actions of, humans in commercial and business transactions as well as automate business processes. Example systems include intelligent personal assistants, intelligent shopping agents as well as intelligent agents performing robotic process automation."
+Key takeaways of  Graduate Certificate in Intelligent Software Agents,"Design and build intelligent software agents that can act on behalf of humans in commercial and business transactions as well as automate business processes
+Understand the key concepts underlying the design and operation of intelligent software agents
+Be familiar with current best practices and tools for building intelligent software agents"
+Course details of  Graduate Certificate in Intelligent Software Agents,"Duration:	11 days
+Level:	Specialist
+Area:	Intelligent Software Agents
+This graduate certificate is a part of the Stackable Graduate Certificate Programme in Artificial Intelligent Systems"
+Modular coursed of  Graduate Certificate in Intelligent Software Agents,"Intelligent Process Automation
+This is a course designed to help organizations to build artificial intelligence augmented business process automation software agents, which can replicate the behaviours of humans in business context. Organizations thus greatly increase the business process efficiency and productivity. Example applications include intelligent sales assistants, surveillance agent, unsafe content reviewer, and so on. Participants will learn to create business automation agents using artificial intelligence and robotic process automation tools in workshops.
+
+3 Days
+Software Robots
+This is a course designed to help engineers and scientists to acquire the skills of building Software agents or robots with commonly available components and methods.  It covers basic skills of building software agents and creating communication platform for multi-agent systems. The web-crawling softbots and web-scrapers will also be covered.
+
+4 Days
+Self-learning Systems
+This course covers the core theory and algorithms of reinforcement learning and evolutionary learning techniques and practical skills and strategies for real-world industrial implementations.
+
+4 Days"
+Overview of Graduate Certificate in Practical Language Processing,"This certificate teaches fundamental and advanced skills in practical language processing. This includes fundamental text processing techniques, text analytics applications, deep learning techniques and their application in sentiment mining and chatbots development."
+Key takeaway  of Graduate Certificate in Practical Language Processing,"Pre-process textual data into suitable representation for text analytics
+Build and evaluate language models using appropriate text processing techniques for tasks like document classification, topic modeling, information extraction, etc.
+Apply deep learning techniques on large amounts of textual data to obtain high quality models
+Extract and classify the sentiment polarity opinions from texual data
+Build service chatbots using traditional and machine learning approaches"
+Course details of Graduate Certificate in Practical Language Processing,"Duration:	27 days
+Level:	Specialist
+Area:	Practical Language Processing
+This graduate certificate is a part of the Stackable Certificate Programme in Data Science"
+Modular Courses of Graduate Certificate in Practical Language Processing,"
+NICF - Text Analytics (SF)
+This course aims to equip participants with the knowledge and skills to effectively analyse large amounts of textual data such as customer feedbacks and social media conversations to discover themes, patterns and trends to aid in improving business process and decision making. In scenario-based case studies, participants will be introduced to common text analytics tasks such as data pre-processing and preparation, linguistic/knowledge resources management, concept extraction, text categorisation, clustering, association and trend analysis. Participants will practise performing these tasks following a well-defined process in hands-on sessions.
+3 Days
+NICF - New Media and Sentiment Mining (SF)
+This course introduces the concepts and techniques for opinion extraction from unstructured text and the classification of sentiment polarity. Students learn how to find textual sources containing sentiment and use tools to analyze them.
+4 Days
+NICF - Text Processing using Machine Learning (SF)
+This course provides essential knowledge and skills required to perform deep learning based text processing in common tasks encountered in industries.
+5 Days
+Conversational Interfaces
+This course examines traditional approaches to build customer service chatbots for a vertical domain as well as machine learning techniques using large amount of conversational data to improve and optimize chatbot performance.
+5 Days
+Practice Module
+Students work undertake projects to tackle one or more real world problems that allow them to gain experience in the topics taught. Projects may be selected from within their own organisations or from other approved sources. These projects will be assessed.
+10 Days"
+Overview of Graduate Certificate in Intelligent Robotic Systems,"This graduate certificate teaches the skills required to build Intelligent Systems that will help control the advanced robotic systems, autonomous vehicles and industrial automation that will be central to Industry 4.0."
+Key Takeaways  of Graduate Certificate in Intelligent Robotic Systems,"Design and build intelligent and cooperative robotic systems and mobile and autonomous systems
+Understand the core concepts underlying the control of autonomous robotic systems (e.g. robot manipulators, self-driving vehicles)
+Be familiar with current best practices and tools for building intelligent robotic systems"
+Course details of Graduate Certificate in Intelligent Robotic Systems,"Duration:	14 days
+Level:	Specialist
+Area:	Intelligent Robotic Systems
+This graduate certificate is a part of the Stackable Graduate Certificate Programme in Artificial Intelligent Systems"
+Modular Courses of Graduate Certificate in Intelligent Robotic Systems,"NICF - Robotic Systems (SF)
+This 5-day course is designed for professionals who wish to gain specialised knowledge in the integration and development of various components within intelligent robotic systems for a wide range application across various industries. The modules will benefit those working in various sectors, for example, in medical, manufacturing and defence industry.
+
+
+Participants will gain in-depth knowledge in areas like understanding autonomous behaviour types in robotics, robotics sensory operations, understanding robotics mobility, and robotic path planning and fuzzy behaviours in robotics. There will be projects and assessment to reinforce participants? learning as part of the course.
+
+5 Days
+Autonomous Robotics and Vehicles
+This is a course designed to help engineers and scientists to acquire the skills of building Mobile robotics and autonomous vehicles with commonly available components and methods.  It also covers self-learning mobile robotics that automatically acquires control skills via simulations, which is a growing trend.  The ?swamp? technology for coordinated mobile robots will also be covered.
+
+5 Days
+Human-Robot System Engineering
+This is a course designed to help engineers and scientists to acquire the skills of building Human-affine robotic systems that are user-friendly and easy-to-interact with using commonly available components and methods.  It covers topics related to the cognitive norms of human users of robotics, and how affective and social robotics interfacing could facilitate in the adoption of robotics and automation in various tasks including augmented/mixed reality.
+
+4 Days"
+Stackable Certificate Programme in Smart Systems & Platforms,"The NUS-ISS Stackable Certificate Programme in Smart Systems & Platforms, leading to the NUS Master of Technology in Software Engineering is designed to meet the industry demand for software engineers who can help Singapore organisations to realise the smart nation initiatives through building robust, reliable and scalable software systems. This programme is best suited for individuals who have a few years of experience in software engineering roles and are looking to further enhance their knowledge and skills in architecting scalable, secure and smart software systems."
+Graduate Certificate in Architecting Scalable Systems,"In this graduate certificate you will learn how to architect scalable, robust and reliable ubiquitous systems using the latest Cloud-based technology. Techniques to automate and engineer DevOps pipelines and architecting platforms will also be covered. The certificate focuses on how to architect the back-end support for large systems and platforms."
+Key Takeaways,"Architect scalable, robust integrated systems subject to change in requirements
+Architect systems as Cloud Native solution with best practices and patterns for scalability and robust systems
+Engineer and automate DevOps pipelines for Agile Continuous Delivery
+Architect platforms and frameworks for building extensible systems and exposing platform functionality to other systems and platforms"
+Graduate Certificate in Architecting Smart Systems,"Overview
+In this graduate certificate, you will learn skills and techniques required to engineer end-to-end Intelligent Smart Systems. Topics in architecting smart IoT platforms and systems that are scalable will be covered. You will learn to design, develop and integrate systems that make sense of data from a variety of sensors and edge devices. You will also learn to create interfaces to smart systems that are apt for interacting with humans in intelligent manners."
+Overview of Graduate Certificate in Designing and Managing Products and Platforms,You will learn how to design and manage products and platforms. Key aspects would be to using design thinking principles and market research to innovate and concretize product ideas; a framework to scafold the multidisciplinary aspects of managing a product; develop a product strategy that aligns with business goals and to architect product lines for a family of products. This certificate has a hands-on approach with inputs from industry practitioners.
+Key Takeaways of Graduate Certificate in Designing and Managing Products and Platforms,"Key TakeawaysApply a product management framework for planning and launching products
+Understand and apply the central concepts of Design Thinking to innovation projects
+Perform market research, identify the competition, converse with your potential customers to formulate a sustainable market positioning, and a sustainable product business model
+Identify, design, instrument and instantiate the variable features of software product lines and platforms"
+Course details of Graduate Certificate in Designing and Managing Products and Platforms,"Duration:	15 days
+Level:	Fundamental
+Area:	Designing and Managing Products and Platforms
+This graduate certificate is a part of the Stackable Graduate Certificate Programme in Smart Systems & Platforms"
+Modular Courses of Graduate Certificate in Designing and Managing Products and Platforms,"NICF - Strategic Product Manager? (SF)
+The Strategic Product Manager? (SPMR) course is a comprehensive 4-day programme presenting participants with a practical and interactive learning experience while providing the necessary knowledge, skills and tools to manage advanced products at technology and high-tech companies.  
+
+
+The course consists of the following three core modules: Strategic Product Management? (SPM), Procedural Requirements Management? (PRM), Business and Market Planning? (BMP).
+
+4 Days
+NICF - Service Design (SF)
+This course is part of the Digital Innovation & Design series as well as the Professional Diploma in Smart Health Leadership offered by NUS-ISS.
+
+3 Days
+NICF - Digital Product Strategy (SF)
+This is a practice oriented course and will be facilitated by industry & ISS practitioners. Participant will acquire skills through pre-readings, lectures, case discussions and working in teams to develop digital product strategies to launch and sustain their digital products. Participants are welcome to bring their product ideas as the case for the team to work on their digital product strategy. Participants are also expected to present the digital product strategy to an industry panel for assessment and for feedback and learning.
+3.7 Days
+Software Product Lines and Platforms
+This course equips the participants with skills to be able to identify, design, instrument and instantiate the variable features of software product lines and platforms.
+
+4 Days"
+Modular Courses of  Graduate Certificate in Engineering Big Data,"Overview
+In this graduate certificate you will acquire skills required to architect and engineer scalable data intensive solutions that powering data-driven and insight driven new generation digital platforms.
+
+
+You will gain hands-on experience in building data processing pipelines for big data that support various kinds of data intensive systems invovling analytics from statistical to machine learning to specialized graph and stream processing models. This big data flow is the foundation for your organisation to derive deep business insights such as understanding customer behaviour, recommending product formulations, improving resource usage and achieving greater optimization."
+Key Takeaways of Graduate Certificate in Engineering Big Data,"Design and Implement Enterprise Data Lake
+Integrate multiple disparate large scale data sources to enable derivation of data-driven insights.
+Architect data driven systems that are scalable, polyglot, intelligent and responsive to changing business requirements. This involves building systems that handles the entire data life cycle from collection, ingestion, staging, preparation, processing and visualization
+Architect stream processing systems for a ubiquitously instrumented world. Issues related to scalable data collection using intelligently devised polyglot ingestion layer receiving data from smart edge devices and sensors will be dealt with"
+Course details of Graduate Certificate in Engineering Big Data,"Duration:	12 days
+Level:	Specialist
+Area:	Engineering Big Data
+This graduate certificate is a part of the Stackable Graduate Certificate Programme in Smart Systems & Platforms"
+Modular Courses of Graduate Certificate in Engineering Big Data,"Information Architecture for Data-driven Insights
+This course equips data architects to integrate multiple disparate large scale data sources to enable derivation of data-driven insights. Through a learning approach with ample hands-on activities, examples and case studies, participants will learn the knowledge and techniques of designing a comprehensive information architecture. This course will cover topics in data storage, database technologies, data governance and policy, and data processing pipeline.
+
+4 Days
+NICF - Big Data Engineering for Analytics (SF)
+Participants will learn various aspects of data engineering while building resilient distributed datasets. Participants will learn to apply key practices, identify multiple data sources appraised against their business value, design the right storage, and implement proper access model(s).  Finally, participants will build a scalable data pipeline solution composed of pluggable component architecture, based on the combination of requirements in a vendor/technology agnostic manner.  Participants will familiarize themselves on working with Spark platform along with additional focus on query and streaming libraries. 
+
+5 Days
+Architecting Systems for Real-Time Data Processing
+This course equips data architects who architect stream processing systems for a ubiquitously instrumented world. The course discusses scalable data collection using intelligently devised polyglot ingestion layer receiving data from smart edge devices and sensors.
+
+3 Days"
